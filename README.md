@@ -7,3 +7,4 @@ Zmiana wprowadzona już github
 
 
 bla bla bla
+i kolejny teścik 
